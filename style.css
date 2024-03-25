@@ -1,0 +1,117 @@
+.body
+{
+	display: flex;
+}
+.contener
+{
+	position: absolute;
+	height: 80%;
+	width: 60%;
+	padding: 10px;
+}
+.main
+{
+	height: 10px;
+	width:50px;
+	top: 20px;
+	position: absolute;
+}
+.A
+{
+	position: absolute;
+	height: 600PX;
+	width: 900PX;
+	top: 60PX;
+}
+.A1
+{ 
+	position: absolute;
+	height: 50PX;
+	width: 50PX;
+	bottom: 112PX;
+	left:30px;
+}
+.A2
+{
+	position: absolute;
+	height: 20px;
+	width: 30px;
+	top: 575px;
+	left: 440px;
+}
+.A3
+{
+	position: absolute;
+	height: 20PX;
+	width: 300PX;
+	font-size: 20PX;
+	top: 620PX;
+	left: 60PX;
+	color: #0080FE;
+}
+.A4
+{
+	position: absolute;
+	height: 20px;
+	width: 300px;
+	top: 600px;
+	right: 440px;
+	font-size: 20px;
+	color: #0018F9;
+}
+.A5
+{
+	position: absolute;
+	height: 7px;
+    width: 20px;
+	top: 580px;
+	left: 50px;
+}
+.A5
+{
+	position: absolute;
+	height: 20PX;
+	width: 300PX;
+    bottom:650PX;
+    right: 50PX;
+}
+.A6
+{
+	position: absolute;
+	width: 250PX;
+	height: 200PX;
+	top: 650PX;
+	left: 60PX;
+}
+.line
+{
+	width: 400px;
+	top:750px;
+	position: absolute;
+	left: 10px;
+}
+.A7
+{
+	width: 100px;
+	height: 50px;
+	top: 730px;
+	position: absolute;
+	left: 520px;
+}
+.A8
+{
+	position: absolute;
+	height: 30px;
+	width: 300px;
+	top: 750px;
+	left: 240px;
+}
+.A9
+{
+	position: absolute;
+	height: 400PX;
+	width: 200PX;
+	bottom: 400PX;
+    left: 240PX;
+    color: blue;
+}
